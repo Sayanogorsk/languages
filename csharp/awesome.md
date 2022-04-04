@@ -5,3 +5,30 @@
 * Learn how to write any application using the [C# programming language](https://docs.microsoft.com/en-us/dotnet/csharp/?WT.mc_id=dotnet-35129-website) on the .NET platform.
 * Free [videos](https://dotnet.microsoft.com/en-us/learn/videos) for learning about .NET developer platform and how to use it.
 * Create [C# apps](https://docs.microsoft.com/en-us/visualstudio/get-started/csharp/?view=vs-2022) with Visual Studio.
+
+* .NET (choco install dotnet): https://docs.microsoft.com/en-us/dotnet/fundamentals/
+* .NET Framework (choco install dotnetfx): https://docs.microsoft.com/en-us/dotnet/framework/
+### Beginner
+
+### Intermediate
+
+### Advanced
+
+
+## Algorithm
+
+### Leetcode
+
+### Design Pattern
+
+
+## Resources
+### Awesome List
+
+### Courses
+
+### Books
+
+### Excercises
+
+### Projects
