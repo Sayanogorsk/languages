@@ -29,6 +29,11 @@ A: I guess it comes down to a few things, two things in particular I have notice
 
 ## Resources
 ### Awesome List
+* [awesome-csharp](https://github.com/JessicaBarclay/awesome-csharp): Awesome list of C# related libraries, tools and tutorials. Inspired by awesome-dotnet, awesome-dotnet-core, awesome-roslyn and awesome.
+* [awesome-dotnet](https://github.com/quozd/awesome-dotnet): A collection of awesome .NET libraries, tools, frameworks and software
+* [awesome-dotnet-core](https://github.com/thangchung/awesome-dotnet-core): A collection of awesome .NET core libraries, tools, frameworks and software
+* [awesome-roslyn](https://github.com/ironcev/awesome-roslyn): Curated list of awesome Roslyn books, tutorials, open-source projects, analyzers, code fixes, refactorings, and source generators
+
 
 ### Courses
 
