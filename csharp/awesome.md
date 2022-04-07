@@ -29,7 +29,13 @@
 
 
 ### Courses
-
+[9 Free C# (C-Sharp) Courses and Tutorials for Beginners and Intermediate Programmers](https://medium.com/javarevisited/9-free-c-c-sharp-courses-and-tutorials-for-beginners-and-intermediate-programmers-best-of-lot-dc8c793aab31)
+* [Fundamentals of Programming: Understanding C#](https://www.udemy.com/course/understandingc/)
+* [Basics of Object Oriented Programming with C#](https://www.udemy.com/course/basics-of-object-oriented-programming-with-csharp/)
+* [Introduction to C# Programming and Unity](https://www.coursera.org/learn/introduction-programming-unity)
+* [C# Fundamentals](https://www.pluralsight.com/courses/csharp-fundamentals-dev?exp=3)
+* [C# From Beginner To Pro - Write A WindowsUI Style App Form](https://www.udemy.com/course/c-from-beginner-to-pro-build-a-windowsui-app-in-winforms/)
+* [Introduction to TDD in C#](https://www.udemy.com/course/intro-tdd/)
 ### Books
 
 ### Excercises
