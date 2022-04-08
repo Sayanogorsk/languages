@@ -20,6 +20,8 @@ keywords: csharp c-sharp dotnet
 ## Algorithm
 
 ### Leetcode
+[Leetcode_Julia](https://github.com/jianminchen/Leetcode_Julia): Leetcode C# solutions, 461 solved (237 easy, 176 medium, 48 hard), 
+[leetcode-csharp](https://github.com/jackzhenguo/leetcode-csharp): solutions using C# for leetcode according to tags of questions
 
 ### Design Pattern
 
